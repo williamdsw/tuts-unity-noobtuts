@@ -26,13 +26,21 @@ flappy-bird-clone/[Bb]uilds/
 flappy-bird-clone/[Ll]ogs/
 flappy-bird-clone/[Mm]emoryCaptures/
 
-mineswepper-clone/[Ll]ibrary/
-mineswepper-clone/[Tt]emp/
-mineswepper-clone/[Oo]bj/
-mineswepper-clone/[Bb]uild/
-mineswepper-clone/[Bb]uilds/
-mineswepper-clone/[Ll]ogs/
-mineswepper-clone/[Mm]emoryCaptures/
+minesweeper-clone/[Ll]ibrary/
+minesweeper-clone/[Tt]emp/
+minesweeper-clone/[Oo]bj/
+minesweeper-clone/[Bb]uild/
+minesweeper-clone/[Bb]uilds/
+minesweeper-clone/[Ll]ogs/
+minesweeper-clone/[Mm]emoryCaptures/
+
+pong-clone/[Ll]ibrary/
+pong-clone/[Tt]emp/
+pong-clone/[Oo]bj/
+pong-clone/[Bb]uild/
+pong-clone/[Bb]uilds/
+pong-clone/[Ll]ogs/
+pong-clone/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
