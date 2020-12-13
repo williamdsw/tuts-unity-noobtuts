@@ -18,6 +18,14 @@ arkanoid-clone/[Bb]uilds/
 arkanoid-clone/[Ll]ogs/
 arkanoid-clone/[Mm]emoryCaptures/
 
+flappy-bird-clone/[Ll]ibrary/
+flappy-bird-clone/[Tt]emp/
+flappy-bird-clone/[Oo]bj/
+flappy-bird-clone/[Bb]uild/
+flappy-bird-clone/[Bb]uilds/
+flappy-bird-clone/[Ll]ogs/
+flappy-bird-clone/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
