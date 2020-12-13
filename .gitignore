@@ -58,6 +58,14 @@ tetris-clone/[Bb]uilds/
 tetris-clone/[Ll]ogs/
 tetris-clone/[Mm]emoryCaptures/
 
+tron-light-cycles-clone/[Ll]ibrary/
+tron-light-cycles-clone/[Tt]emp/
+tron-light-cycles-clone/[Oo]bj/
+tron-light-cycles-clone/[Bb]uild/
+tron-light-cycles-clone/[Bb]uilds/
+tron-light-cycles-clone/[Ll]ogs/
+tron-light-cycles-clone/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
