@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+arkanoid-clone/[Ll]ibrary/
+arkanoid-clone/[Tt]emp/
+arkanoid-clone/[Oo]bj/
+arkanoid-clone/[Bb]uild/
+arkanoid-clone/[Bb]uilds/
+arkanoid-clone/[Ll]ogs/
+arkanoid-clone/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
