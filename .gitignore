@@ -26,6 +26,14 @@ flappy-bird-clone/[Bb]uilds/
 flappy-bird-clone/[Ll]ogs/
 flappy-bird-clone/[Mm]emoryCaptures/
 
+mineswepper-clone/[Ll]ibrary/
+mineswepper-clone/[Tt]emp/
+mineswepper-clone/[Oo]bj/
+mineswepper-clone/[Bb]uild/
+mineswepper-clone/[Bb]uilds/
+mineswepper-clone/[Ll]ogs/
+mineswepper-clone/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
