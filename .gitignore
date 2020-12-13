@@ -42,6 +42,14 @@ pong-clone/[Bb]uilds/
 pong-clone/[Ll]ogs/
 pong-clone/[Mm]emoryCaptures/
 
+snake-clone/[Ll]ibrary/
+snake-clone/[Tt]emp/
+snake-clone/[Oo]bj/
+snake-clone/[Bb]uild/
+snake-clone/[Bb]uilds/
+snake-clone/[Ll]ogs/
+snake-clone/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
