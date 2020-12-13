@@ -50,6 +50,14 @@ snake-clone/[Bb]uilds/
 snake-clone/[Ll]ogs/
 snake-clone/[Mm]emoryCaptures/
 
+tetris-clone/[Ll]ibrary/
+tetris-clone/[Tt]emp/
+tetris-clone/[Oo]bj/
+tetris-clone/[Bb]uild/
+tetris-clone/[Bb]uilds/
+tetris-clone/[Ll]ogs/
+tetris-clone/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
